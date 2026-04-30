@@ -114,7 +114,7 @@ sudo snap remove kubelet kubectl kubeadm
 ```
 
 ---
-Master + Worker Nodes
+Master Nodes
 ## **Step 6: Initialize the Kubernetes Cluster**
 
 Run the following command on the **control-plane (master) node**:
